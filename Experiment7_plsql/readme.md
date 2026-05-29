@@ -37,6 +37,9 @@ END;
 **Expected Output:**  
 Greater number is: 80
 
+<img width="830" height="760" alt="image" src="https://github.com/user-attachments/assets/39a5ad5a-df66-4653-8921-33869fbf7ab9" />
+
+
 ---
 
 ## 2. Write a PL/SQL program to Calculate Sum of First N Natural Numbers
@@ -49,6 +52,9 @@ Greater number is: 80
 
 **Expected Output:**  
 Sum of first 10 natural numbers is: 55
+
+<img width="812" height="923" alt="image" src="https://github.com/user-attachments/assets/e909271a-4e0d-44ef-aa28-aaf04a0c86a1" />
+
 
 ---
 
@@ -64,6 +70,9 @@ Sum of first 10 natural numbers is: 55
 n = 7  
 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 
+<img width="832" height="906" alt="image" src="https://github.com/user-attachments/assets/31212384-bc69-4c6d-b2ba-f1e38303eb1d" />
+
+
 ---
 
 ## 4. Write a PL/SQL Program to display the number in Reverse Order
@@ -77,6 +86,9 @@ Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 n = 1535  
 Reversed number is 5351
 
+<img width="797" height="893" alt="image" src="https://github.com/user-attachments/assets/d73acc30-35d5-4716-85ef-bad1bf60ea79" />
+
+
 ---
 
 ## 5. Write a PL/SQL program to find the largest of three numbers
@@ -89,6 +101,9 @@ Reversed number is 5351
 **Expected Output:**  
 a = 10, b = 9, c = 15  
 Largest of three number is 15
+
+<img width="924" height="884" alt="image" src="https://github.com/user-attachments/assets/7ef415fc-9dd5-4cf5-a8fb-dc17c3b5702e" />
+
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
